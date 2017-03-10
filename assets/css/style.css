@@ -1,0 +1,30 @@
+.validacion{
+  color:red;
+  font-size: 11px;
+  font-family: sans-serif;
+}
+.h1{
+  margin-left: 500px;
+}
+.login {
+  vertical-align:middle;
+  margin-left: 500px;
+  border: #e0e0d1 solid 2px;
+  height: 200px;
+  width: 200px;
+  /*background: #E8DFF0;*/
+
+  /* IMPORTANTE */
+  display: flex;
+  align-items: center;
+}
+.div_muro{
+  border: #e0e0d1 solid 2px;
+  height: 200px;
+  width: 600px;
+}
+.div-post{
+  border: #e0e0d1 solid 2px;
+  height: 50px;
+  width: 300px;
+}
